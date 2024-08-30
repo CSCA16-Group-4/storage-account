@@ -1,1 +1,1 @@
-new-azstorageaccount
+new-azstorageaccount -name test123
